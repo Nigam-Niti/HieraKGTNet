@@ -1,7 +1,7 @@
 # HieraKGTNet
 A Python program to do deep learning experiments on several hyperspectral datasets.
 
-#REQUIREMENTS
+# REQUIREMENTS
 Python 2.7 and Python 3.5+ are compatible with this utility.
 
 
